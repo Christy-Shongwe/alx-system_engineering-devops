@@ -1,1 +1,1 @@
-Shell Permissions Readme
+Fixed readme for shell permissions
